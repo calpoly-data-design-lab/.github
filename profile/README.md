@@ -1,1 +1,1 @@
-# Welcome to Github Organization for the Cal Poly Data Design Laboratory.
+# Welcome to the Github Organization for the Cal Poly Data Design Laboratory.
